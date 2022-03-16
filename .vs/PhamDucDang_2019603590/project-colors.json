@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b54b5b2-be90-49ed-a4d7-571141e6d619": {
+      "ProjectGuid": "5b54b5b2-be90-49ed-a4d7-571141e6d619",
+      "DisplayName": "GUI THI",
+      "ColorIndex": 0
+    },
+    "2a9b27db-4092-4455-8153-b31f6a20af96": {
+      "ProjectGuid": "2a9b27db-4092-4455-8153-b31f6a20af96",
+      "DisplayName": "DAL THI",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

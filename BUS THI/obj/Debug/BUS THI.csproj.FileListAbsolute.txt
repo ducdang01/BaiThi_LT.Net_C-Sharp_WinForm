@@ -1,0 +1,18 @@
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\BUS THI.dll
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\BUS THI.pdb
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\DAL THI.dll
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\DAL THI.pdb
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.AssemblyReference.cache
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.CoreCompileInputs.cache
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.CopyComplete
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.dll
+G:\Tai lieu hoc tap cua Dang - KHONG XOA\dang\lap trinh. net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.pdb
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\BUS THI.dll
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\BUS THI.pdb
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\DAL THI.dll
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\bin\Debug\DAL THI.pdb
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.AssemblyReference.cache
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.CoreCompileInputs.cache
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.csproj.CopyComplete
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.dll
+D:\Dang\lap trinh net\PhamDucDang_2019603590\PhamDucDang_2019603590\BUS THI\obj\Debug\BUS THI.pdb
